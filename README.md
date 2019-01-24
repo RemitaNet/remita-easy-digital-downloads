@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Remita Easy Digital Downloads Payment Gateway
 
 ---
@@ -59,3 +60,6 @@ __*You can select Remita Payment Gateway from the list of payment gateways avail
 
 1.	You need to have Easy Digital Downloads plugin installed and activated on your WordPress site.
 2.	You need to open an account on [Remita](https://remita.net/)
+=======
+# remita-easy-digital-downloads
+>>>>>>> 49fffa615530413fd98c3307cb85aa4f730698c9
