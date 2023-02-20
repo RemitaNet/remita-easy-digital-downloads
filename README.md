@@ -60,3 +60,10 @@ __*You can select Remita Payment Gateway from the list of payment gateways avail
 
 1.	You need to have Easy Digital Downloads plugin installed and activated on your WordPress site.
 2.	You need to open an account on [Remita](https://remita.net/)
+
+## Useful links
+* Join our Slack Developer/Support channel at http://bit.ly/RemitaDevSlack
+    
+## Support
+- For all other support needs, support@remita.net
+- To contribute to this repo, create an issue on what you intend to fix or update, make a PR and team will look into it and merge.
